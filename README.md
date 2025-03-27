@@ -6,6 +6,9 @@
 ***
 - Tengo 22 años.
 - Nací y viví toda mi vida en Campana.
+- Mi animal favorito es el mapache.
+- Mi color favorito es el azul.
+- Soy diestro.
 - Me gusta jugar jueguitos. De vez en cuando me echo una partidita al **Rocket League**, y más o menos una vez por año hacemos un servidor de **Terraria** con unos amigos. También últimamente me estaba pasando el **Chrono Trigger**; está piola.
 - Siempre tuve un gusto y una facilidad para las matemáticas, desenmbocando en que participara regularmente en la **Olimpiada Matemática Argentina** (**OMA**) en mis años de primaria y secundaria. En una de esas llegué a salir en 2.° posición en una competencia a nivel nacional.
 - Si me pudiera dedicar a estudiar por gusto y no para tener un futuro laboral, entonces me gustaría estudiar una Licenciatura en Matemáticas o algo relacionado con las matemáticas más puras.
