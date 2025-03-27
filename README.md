@@ -1,6 +1,6 @@
 # Julián Domenech
 ***
-!(paradigmasreadme.jpg) NO SÉ AGREGAR LA FOTO
+![Foto](https://github.com/pdep-utn-frd/2025-presentacion-JuliDome/blob/main/paradigmasreadme.jpg?raw=true)
 ***
 ## Datos random e información general sobre mí
 ***
